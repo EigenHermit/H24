@@ -7,7 +7,6 @@ This compilation presents two comprehensive tables derived from the Kilo-Degree 
 ## Table 1: System Overview
 This table encompasses 272 (candidate) systems, including previously identified lenses. It provides a concise summary of each potential lensed quasar system.
 ## Table 2: Detailed Imagery
-The second table offers in-depth visual data for each system listed in Table 1. It contains high-resolution images that allow for detailed examination of the candidate lensed quasar systems.
-These catalogs serve as a valuable resource for researchers studying gravitational lensing and quasar populations in the KiDS survey area.
+The second table offers in-depth visual data for each system listed in Table 1. 
 
 Authors: Zizhao He, Rui Li, Yiping Shu, Crescenzo Tortora, Xinzhong Er, Raoul Ca˜nameras, Stefan Schuldt, Nicola R. Napolitano, Bharath Chowdhary N, Qihang Chen, Nan Li, Haicheng Feng, Limeng Deng, Guoliang Li, L.V.E. Koopmans and Andrej Dvornik
